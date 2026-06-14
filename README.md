@@ -125,6 +125,7 @@ Final Answer
 LegalX/
 │
 ├── app.py
+├── Dockerfile
 │
 ├── data/
 │   ├── POCSO_ACT.txt
