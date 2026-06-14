@@ -141,11 +141,6 @@ LegalX/
 │   ├── faiss_index.bin
 │   └── metadata.pkl
 │
-├── audio/
-│   ├── POCSO.mp3
-│   ├── RTI.mp3
-│   ├── GST.mp3
-│   └── ...
 │
 ├── modules/
 │   ├── summarizer.py
