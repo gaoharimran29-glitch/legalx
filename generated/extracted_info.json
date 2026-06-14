@@ -1,0 +1,216 @@
+{
+    "CONSUMER_PROTECTION": {
+        "rights": [
+            "Protection against hazardous goods/services",
+            "Right to be informed about product quality, quantity, price",
+            "Access to a variety of goods/services at competitive prices",
+            "Right to be heard in consumer forums",
+            "Redressal against unfair trade practices",
+            "Right to consumer awareness"
+        ],
+        "provisions": [
+            "Establishment of Central Consumer Protection Authority",
+            "Establishment of Consumer Disputes Redressal Commissions (District, State, National)",
+            "Provisions for mediation and consumer mediation cells",
+            "Rules for product liability actions",
+            "Measures to prevent unfair trade practices in e-commerce and direct selling",
+            "Definition of consumer, complaint, and consumer dispute",
+            "Powers and functions of the Central Authority including investigation and recall of goods",
+            "Procedures for filing and adjudicating complaints",
+            "Appeals process for consumer disputes",
+            "Penalties for non-compliance with directions and false advertisements"
+        ],
+        "penalties": [
+            "Penalties for false or misleading advertisements",
+            "Punishment for manufacturing, storing, selling, or distributing adulterated products",
+            "Punishment for manufacturing, storing, selling, or distributing spurious goods",
+            "Penalty for non-compliance of directions from the Central Authority",
+            "Penalty for non-compliance of orders from Consumer Disputes Redressal Commissions",
+            "Fines and imprisonment for certain offences"
+        ],
+        "beneficiaries": [
+            "Consumers of goods and services",
+            "Voluntary consumer associations",
+            "Central Government",
+            "State Governments",
+            "Legal heirs or representatives of deceased consumers",
+            "Parents or legal guardians of minor consumers"
+        ]
+    },
+    "GST_ACT": {
+        "rights": [
+            "Right to take input tax credit",
+            "Right to claim refund of excess tax paid",
+            "Right to appeal against decisions of authorities",
+            "Right to seek advance ruling on tax matters",
+            "Right to receive goods or services as per contract",
+            "Right to be informed of tax liabilities",
+            "Right to access business premises for inspection",
+            "Right to be heard before penalty imposition"
+        ],
+        "provisions": [
+            "Levy and collection of GST on intra-state supply",
+            "Registration of taxpayers",
+            "Issuance of tax invoices, credit, and debit notes",
+            "Maintenance of accounts and records",
+            "Furnishing of returns and payment of tax",
+            "Provisions for input tax credit (ITC)",
+            "Assessment and audit procedures",
+            "Procedures for refunds",
+            "Offences and penalties for non-compliance",
+            "Transitional provisions for existing taxpayers"
+        ],
+        "penalties": [
+            "Penalty for certain offences (e.g., evasion, false representation)",
+            "General penalty for contravention of provisions",
+            "Penalty for failure to register machines",
+            "Penalty for failure to furnish information returns",
+            "Fine for failure to furnish statistics",
+            "Detention, seizure, and release of goods and conveyances",
+            "Confiscation of goods or conveyances and levy of penalty",
+            "Punishment for certain offences (imprisonment, fine)",
+            "Late fee for delayed payment of tax",
+            "Interest on delayed payment of tax"
+        ],
+        "beneficiaries": [
+            "Central Government (for revenue collection)",
+            "Registered taxpayers (businesses)",
+            "Consumers (through potential reduction in cascading taxes)",
+            "State Governments (through GST compensation and shared revenue)",
+            "Union Territories",
+            "Tax authorities (for administration and enforcement)",
+            "Suppliers of goods and services",
+            "Recipients of goods and services"
+        ]
+    },
+    "IT_ACT": {
+        "rights": [
+            "Right to legal recognition of electronic records and signatures",
+            "Right to use electronic records and signatures in government services",
+            "Right to retain electronic records",
+            "Right to audit documents in electronic form",
+            "Right to have contracts formed through electronic means recognized",
+            "Right to attribution, acknowledgment, and timely receipt of electronic records",
+            "Right to secure electronic records and signatures",
+            "Right to appeal decisions of adjudicating officers",
+            "Right to legal representation before the Appellate Tribunal",
+            "Right to protection of actions taken in good faith"
+        ],
+        "provisions": [
+            "Legal recognition of electronic records and signatures",
+            "Use of electronic records and signatures in government and its agencies",
+            "Attribution, acknowledgment, and despatch of electronic records",
+            "Secure electronic records and signatures",
+            "Regulation of Certifying Authorities",
+            "Duties of subscribers of electronic signature certificates",
+            "Penalties and adjudication for computer-related offenses",
+            "Establishment of an Appellate Tribunal for appeals",
+            "Exemption from liability for intermediaries in certain cases",
+            "Act to have overriding effect over other laws"
+        ],
+        "penalties": [
+            "Penalty and compensation for damage to computer, computer system, etc.",
+            "Compensation for failure to protect data",
+            "Penalty for failure to furnish information, return, etc.",
+            "Residuary penalty for contraventions",
+            "Punishment for tampering with computer source documents",
+            "Punishment for computer-related offenses",
+            "Punishment for dishonestly receiving stolen computer resource or communication device",
+            "Punishment for identity theft",
+            "Punishment for cheating by personation using a computer resource",
+            "Punishment for violation of privacy"
+        ],
+        "beneficiaries": [
+            "Individuals conducting electronic commerce",
+            "Government agencies utilizing electronic records and services",
+            "Businesses relying on electronic transactions",
+            "Subscribers of electronic signature certificates",
+            "Users of computer systems and networks",
+            "Service providers offering services electronically",
+            "The general public benefiting from secure electronic transactions",
+            "Law enforcement agencies investigating cybercrimes",
+            "The Indian economy through promotion of digital transactions",
+            "All persons involved in or affected by electronic records and communications"
+        ]
+    },
+    "POCSO_ACT": {
+        "rights": [
+            "Right to privacy and confidentiality for children.",
+            "Right to protection from sexual assault, harassment, and pornography.",
+            "Right to have best interests and well-being considered paramount.",
+            "Right to assistance of experts during legal proceedings.",
+            "Right to legal practitioner assistance.",
+            "Right to have statements recorded in a child-friendly manner.",
+            "Right to not see the accused while testifying.",
+            "Right to have trials conducted in camera."
+        ],
+        "provisions": [
+            "Defines 'child' as any person below eighteen years.",
+            "Establishes definitions for various sexual offenses against children.",
+            "Outlines punishments for penetrative sexual assault, aggravated penetrative sexual assault, sexual assault, aggravated sexual assault, and sexual harassment.",
+            "Addresses the use of children for pornographic purposes and related punishments.",
+            "Covers abetment and attempt to commit sexual offenses against children.",
+            "Mandates reporting of sexual offenses against children.",
+            "Specifies procedures for recording statements of child victims.",
+            "Designates Special Courts for trial of sexual offenses against children.",
+            "Provides for Special Public Prosecutors.",
+            "Sets timelines for recording evidence and disposal of cases involving children."
+        ],
+        "penalties": [
+            "Imprisonment for penetrative sexual assault (minimum 10 years, up to life).",
+            "Imprisonment for penetrative sexual assault on a child below 16 (minimum 20 years, up to life).",
+            "Fine to be paid to the victim for medical expenses and rehabilitation.",
+            "Severe penalties for aggravated penetrative sexual assault, including life imprisonment.",
+            "Punishments for sexual assault and aggravated sexual assault.",
+            "Punishments for sexual harassment.",
+            "Punishments for using a child for pornographic purposes.",
+            "Punishments for storing child pornography.",
+            "Punishments for abetment and attempt to commit offenses.",
+            "Punishment for failure to report or for false complaints."
+        ],
+        "beneficiaries": [
+            "Children below the age of eighteen years.",
+            "Victims of sexual offenses.",
+            "Society at large by preventing heinous crimes against children.",
+            "Law enforcement agencies involved in child protection.",
+            "Judicial system through Special Courts.",
+            "Media, studios, and photographic facilities (through obligation to report)."
+        ]
+    },
+    "RTI_ACT": {
+        "rights": [
+            "Right to access information from public authorities",
+            "Right to inspect documents and records",
+            "Right to take notes and extracts from documents",
+            "Right to obtain certified copies of documents",
+            "Right to obtain samples of material",
+            "Right to receive information in electronic format",
+            "Right to receive reasons for administrative decisions"
+        ],
+        "provisions": [
+            "Public authorities must maintain cataloged and indexed records",
+            "Public authorities must publish organizational details, functions, and duties",
+            "Public authorities must publish information on officers, employees, and their remuneration",
+            "Public authorities must publish budget allocations and expenditure details",
+            "Public authorities must publish details of subsidy beneficiaries",
+            "Public authorities must provide reasons for administrative or quasi-judicial decisions",
+            "Information should be disseminated widely and easily accessible",
+            "Public authorities must designate Public Information Officers"
+        ],
+        "penalties": [
+            "Imposition of penalties on Public Information Officers for non-compliance",
+            "Daily penalty of ₹250 for refusal to receive an application, malafide denial, or obstruction",
+            "Maximum penalty of ₹25,000 for repeated offenses",
+            "Penalty may be increased if the delay in providing information is without reasonable cause",
+            "Deduction from the salary of the Public Information Officer for penalties",
+            "Inquiry into the conduct of the Public Information Officer"
+        ],
+        "beneficiaries": [
+            "Citizens of India",
+            "The general public",
+            "Individuals seeking transparency",
+            "Individuals seeking accountability from public authorities",
+            "Members of the public in relation to policy formulation"
+        ]
+    }
+}

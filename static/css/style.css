@@ -1,0 +1,131 @@
+body{
+    background:#f5f7fb;
+    font-family:'Segoe UI',sans-serif;
+    color:#1f2937;
+}
+
+/* Navbar */
+
+.navbar{
+    background:white;
+    box-shadow:0 2px 10px rgba(0,0,0,0.05);
+}
+
+/* Headings */
+
+.main-heading{
+    font-weight:700;
+}
+
+.page-title{
+    font-weight:700;
+}
+
+.subtitle{
+    color:#6b7280;
+    max-width:700px;
+    margin:auto;
+}
+
+/* Cards */
+
+.law-card{
+    border:none;
+    border-radius:18px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.08);
+    transition:0.25s;
+}
+
+.law-card:hover{
+    transform:translateY(-5px);
+}
+
+.card-title{
+    font-weight:600;
+}
+
+/* Buttons */
+
+.btn-primary{
+    background:#2563eb;
+    border:none;
+    border-radius:10px;
+    padding:10px;
+}
+
+.btn-primary:hover{
+    background:#1d4ed8;
+}
+
+/* Summary */
+
+.summary-box{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    border-left:5px solid #2563eb;
+    box-shadow:0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom:25px;
+}
+
+/* Audio */
+
+.audio-box{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom:25px;
+}
+
+/* Info Cards */
+
+.info-card{
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    height:100%;
+    box-shadow:0 4px 12px rgba(0,0,0,0.05);
+}
+
+.info-card h4{
+    margin-bottom:15px;
+}
+
+/* Lists */
+
+.info-list{
+    padding-left:20px;
+}
+
+.info-list li{
+    margin-bottom:10px;
+    line-height:1.6;
+}
+
+/* Chat */
+
+.chat-section{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.05);
+}
+
+.chat-answer{
+    background:#eff6ff;
+    border-left:5px solid #2563eb;
+    padding:20px;
+    border-radius:12px;
+}
+
+/* Source Tags */
+
+.source-tag{
+    display:inline-block;
+    background:#e5e7eb;
+    padding:6px 12px;
+    border-radius:20px;
+    margin:5px;
+    font-size:14px;
+}
